@@ -23,6 +23,6 @@ pip install -r requirements.txt
 ```
 4. Run Streamlit
 ```bash
-streamlit run app.py
+streamlit run Dashboard.py
 ```
 4. Open the link provided by Streamlit to access the dashboard in your web browser.
