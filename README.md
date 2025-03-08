@@ -24,6 +24,9 @@ Pastikan telah menginstal:
 - Python 3.12 atau versi lebih baru
 - pip (Manajer Paket Python)
 ## Cara Menjalankan
+### Open Dashboard on URL 
+1.Open the link https://addienmunadiya-bikesharingdataset.streamlit.app/
+### Open Dashboard on Local 
 1. Clone Repository
 ```bash
 https://github.com/Addienmunadiya/Proyek-Analisis-Bike-Sharing-Dicoding
