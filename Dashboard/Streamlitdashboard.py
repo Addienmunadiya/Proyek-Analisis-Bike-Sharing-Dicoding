@@ -10,8 +10,8 @@ st.text("Addien Munadiya Yunadiya")
 # Loading data dan persiapan
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("day.csv")
-    hr_df = pd.read_csv("hour.csv")
+    day_df = pd.read_csv("Dashboard/day.csv")
+    hr_df = pd.read_csv("Dashboard/hour.csv")
     datetime_columns = ["dteday"]
     for column in datetime_columns:
         day_df[column] = pd.to_datetime(day_df[column])
